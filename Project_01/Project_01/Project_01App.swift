@@ -1,10 +1,3 @@
-//
-//  Project_01App.swift
-//  Project_01
-//
-//  Created by 卢佳泉 on 2021/10/10.
-//
-
 import SwiftUI
 
 @main
